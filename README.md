@@ -11,13 +11,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/CoderNick13">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderNick13&theme=algolia&show_icons=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderNick13&show_icons=true&locale=en&layout=compact&theme=algolia"/>
-</a>
-</p>
 
  
